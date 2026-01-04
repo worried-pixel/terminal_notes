@@ -118,12 +118,6 @@ technical achievement and a new way of thinking.
 TRY THE FUTURE THAT SHOULD ALREADY EXIST:
 ==========================================
 1. git clone [repo]
-2. python terminal_notes_ui.py
+2. run source/python terminal_notes_ui.py
 3. Experience what happens when computer science research becomes
    something you can actually use.
-
-================================================================================
-Sometimes the most important innovations come from the hardest circumstances.
-This is one of those times.
-================================================================================
-```
