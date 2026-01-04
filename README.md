@@ -171,16 +171,6 @@ INSTALLATION
 4. Type '1' to create/import notebook
 5. Experience temporal database capabilities
 
-QUICK DEMONSTRATION
-===================
-1. Create a note "Test Idea"
-2. Add content and nest it deeply
-3. Delete it
-4. Search "Test Idea"
-5. See deleted result appear
-6. Click to resurrect
-7. Watch it return with all content, in original location
-
 TECHNICAL REQUIREMENTS
 ======================
 • Python 3.6+
