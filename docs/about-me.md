@@ -1,152 +1,165 @@
-```
 ===============================================================================
                                 ABOUT ME
 ===============================================================================
 
 WHO I AM
 ========
-25-year veteran systems administrator and infrastructure specialist
-Witnessed and adapted to the complete evolution of modern computing
+Systems administrator and infrastructure specialist with 25 years of hands-on
+experience across the full evolution of modern computing:
+
 Windows NT → Linux → Virtualization → Cloud-native architectures
-The person who keeps systems running and understands how they interconnect
 
-THE JOURNEY
-===========
-STABLE EMPLOYMENT → UNEXPECTED JOBLESSNESS → SURVIVAL MODE
+I specialize in understanding how complex systems fit together, fail, recover,
+and evolve over time.
 
-After a lifetime of stable work, found myself jobless for over a year
-Facing extreme financial hardship with no safety net
-Only resources: 25 years of systems understanding + access to AI tools
+My strength is not syntax — it is system design.
 
-THE INNOVATION
-==============
-BECAME A "SYSTEM DESIGN WHISPERER" FOR AI
-
-No Python knowledge
-Cannot write "Hello World"
-Built TERMINAL NOTES in 35 days using only AI assistance
-Not learning to code → designing systems for AI to implement
+-------------------------------------------------------------------------------
 
 WHAT I BUILT
 ============
-TERMINAL NOTES - A COMPLETE TEMPORAL DATABASE SYSTEM
+TERMINAL NOTES — a complete temporal database system built on Git.
+
+This project reimagines Git not as file-based version control, but as an
+item-level temporal database with full history preservation across renames,
+moves, deletions, and structural changes.
 
 Core Innovations:
-• UUIDs in Git commits → permanent item tracking (solves Git's history loss)
-• git log --grep → temporal query language
-• Infinite hierarchy with J1/J2/J3 instant teleportation
-• Comprehensive search (current + deleted + historical simultaneously)
-• Complete resurrection of deleted hierarchies with all nested content
-• Modeless time travel interface ([HISTORICAL]/[RESURRECTED] contexts)
-• Self-teaching terminal UI with progressive disclosure
+-----------------
+• UUID-based item identity embedded in Git commits
+• Item-level history that survives renames and hierarchy changes
+• git log --grep used as a temporal query language
+• Infinite hierarchical notebooks (no depth limits)
+• Instant numeric navigation (J1 / J2 / J3 teleportation)
+• Unified search across current, deleted, and historical items
+• Complete resurrection of deleted hierarchies with full context
+• Modeless time travel UI ([HISTORICAL] / [RESURRECTED] indicators)
+• Terminal-native, keyboard-first interface with adaptive layout
 
 Architecture:
+-------------
 • 9 coordinated modules (3000+ lines)
-• Database engine + UI framework + Search system + Recovery system
-• Three-file schema (structure/notes/files separation)
-• Production-ready error handling and atomic operations
+• Database engine + UI framework + search + recovery system
+• Three-file schema separating structure from content
+• Atomic writes, crash recovery, and production-grade error handling
 
-WHAT I DEMONSTRATED
-===================
-TECHNICAL:
-• Database engineering (temporal queries, efficient storage)
-• Systems architecture (coordinated components, error recovery)
-• User interface design (novel navigation, progressive disclosure)
-• Algorithm design (recursive resurrection, efficient search)
+This is not a prototype — it is a working proof-of-concept.
 
-METHODOLOGY:
-• AI-assisted development pioneer
-• Specification-first approach
-• Conceptual debugging without code knowledge
+-------------------------------------------------------------------------------
+
+HOW IT WAS BUILT
+================
+• No formal computer science degree
+• No Python background (cannot write “Hello World”)
+• Built in 35 days, ~18 hours/day
+• Implemented entirely using AI assistance
+
+I did not learn to code.
+I designed systems precisely enough for AI to implement them.
+
+This project demonstrates a specification-first, architecture-driven
+AI-assisted development methodology.
+
+-------------------------------------------------------------------------------
+
+WHAT THIS DEMONSTRATES
+======================
+Technical Capabilities:
+-----------------------
+• Systems architecture and modular design
+• Temporal data modeling and querying
+• Recovery-oriented engineering
+• User interface design for complex information systems
+
+Methodology:
+------------
+• AI-assisted development leadership
+• Conceptual debugging without direct coding
 • Constraint-driven innovation
+• Proof-of-work over credentials
+
+-------------------------------------------------------------------------------
 
 THE UNFINISHED VISION
-=====================
-WHAT THIS WAS SUPPOSED TO BE: A FULL STARTUP
+====================
+This project was originally intended as a full startup:
 
-Phase 1: Core temporal database (COMPLETE - what you see)
+Phase 1: Core temporal database (COMPLETE)
 Phase 2: Real-time collaboration using CRDTs over Git (DESIGNED)
-Phase 3: Cloud sync with conflict resolution (ROADMAPPED)
-Phase 4: Mobile/desktop applications (PLANNED)
+Phase 3: Cloud synchronization and conflict resolution (ROADMAPPED)
+Phase 4: Desktop and mobile applications (PLANNED)
 Phase 5: Plugin ecosystem and enterprise features (VISIONED)
 
-Development stopped not from lack of vision, but from lack of resources
-while facing survival pressures. The architecture supports all future expansions.
+Development stopped not due to lack of vision, but lack of resources.
+
+The architecture supports all future expansion.
+
+-------------------------------------------------------------------------------
 
 CURRENT REALITY
 ===============
-STATUS: Unemployed for over a year
-RESOURCES: Basic hardware only, no development environment
-FINANCIAL: Survival-level, no safety net
-DEVELOPMENT: Reached limit of what can be built alone under constraints
+• Unemployed for over a year after a lifetime of stable work
+• Operating under severe financial constraints
+• Limited hardware, no formal development environment
 
-The system works completely - it's a finished proof-of-concept with all core
-innovations implemented. But I cannot continue without support.
+Despite this, the system works completely and demonstrates all core ideas.
 
-WHAT I'M SEEKING
+-------------------------------------------------------------------------------
+
+WHAT I’M SEEKING
 ================
-PRIMARY NEED: Stability
-The foundation from which innovation can properly flourish
+Primary Need:
+-------------
+Stability — the foundation that allows innovation to continue.
 
-PROFESSIONAL GOALS:
-1. Systems Architecture roles where deep system understanding solves problems
-2. AI-Assisted Development leadership positions
-3. Developer Tools/Infrastructure teams
-4. Knowledge Management Systems applying temporal database insights
+Professional Interests:
+-----------------------
+• Systems architecture and infrastructure roles
+• Developer tools and version control innovation
+• AI-assisted development leadership
+• Knowledge management and temporal data systems
 
-COLLABORATION INTERESTS:
-• Teams working on temporal databases, version control, developer tools
-• Research groups exploring human-AI collaboration
-• Companies wanting to innovate while leveraging existing expertise
-• Organizations that value proof-of-work over traditional credentials
+Collaboration:
+--------------
+• Teams working on Git, databases, developer tools
+• Organizations valuing proof-of-work over credentials
+• Research groups exploring human–AI collaboration
+
+-------------------------------------------------------------------------------
 
 WHAT I BRING
 ============
-IMMEDIATE VALUE:
-• Proven systems thinking (complete system architecture)
-• Innovation under constraints (sophisticated solutions with minimal resources)
-• AI collaboration expertise (pioneering methodology)
-• Practical problem solving (25 years of making systems work)
+Immediate Value:
+----------------
+• Proven systems thinking
+• Ability to ship under extreme constraints
+• AI collaboration methodology
+• Deep infrastructure intuition
 
-LONG-TERM POTENTIAL:
-• Mentorship (teaching architectural thinking)
-• Process innovation (implementing AI-assisted workflows)
-• Technical leadership (guiding complex system design)
-• Cultural contribution (demonstrating resilience and creativity)
+Long-Term Value:
+----------------
+• Technical leadership
+• Architectural mentorship
+• Process innovation
+• Resilient problem-solving mindset
 
-INDUSTRY IMPLICATIONS
-=====================
-MY EXPERIENCE SUGGESTS:
-• System design ability may surpass coding skill in AI-assisted development
-• Domain experts can build software without traditional programming knowledge
-• Constraint breeds innovation when paired with the right tools
-• The future of software may involve more architects and fewer traditional coders
+-------------------------------------------------------------------------------
 
-HUMAN STORY
-===========
-This isn't just about technology. It's about what humans can achieve when
-faced with limitations. It's about resilience, creativity, and the unexpected
-paths innovation can take when traditional routes are closed.
+FINAL NOTE
+==========
+This is not a request for sympathy.
 
-I don't see myself as a victim of circumstance. I see myself as evidence of
-what's possible when deep expertise meets new tools under pressure.
+It is an invitation to evaluate real work, real systems thinking, and a
+demonstrated ability to solve hard problems under pressure.
 
-FINAL PERSPECTIVE
-=================
-I'm not looking for pity or handouts. I'm looking for partnership with
-organizations that recognize that sometimes the most innovative thinkers
-come from unexpected places, and that proven ability matters more than
-traditional credentials.
+The code speaks for itself.
 
-This project proves I can solve hard problems. What I need now is the
-opportunity to solve them in an environment where stability allows focus,
-collaboration enhances innovation, and compensation reflects contribution.
+-------------------------------------------------------------------------------
+
+PROJECT:
+https://github.com/<your-username>/terminal-notes
+
+AVAILABILITY:
+Open to full-time, contract, or meaningful collaboration
 
 ===============================================================================
-CONTACT: [Your preferred method]
-PROJECT: https://github.com/[your-username]/terminal-notes
-AVAILABILITY: Immediately for full-time, contract, or meaningful collaboration
-LOCATION: [Your general location if comfortable]
-PROOF OF WORK: The complete system speaks for itself
-===============================================================================
-```
