@@ -23,7 +23,8 @@ CORE NOVELTY
 
 APP STRUCTURE
 =============
-.├── comprehensive_search.py    # Research-grade search engine (temporal + hierarchical)
+.
+├── comprehensive_search.py    # Research-grade search engine (temporal + hierarchical)
 ├── git_manager.py             # Git integration & item-level commit tracking
 ├── git_resurrection.py        # Resurrection engine for deleted items and hierarchies
 ├── notebook_importer.py       # Import/export & structure management
