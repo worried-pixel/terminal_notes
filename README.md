@@ -1,7 +1,8 @@
-===============================================================================
-                       TERMINAL NOTES - SHOWCASE
-       Git Reimagined as a Temporal Hierarchical Database
-===============================================================================
+===============================================================
+Terminal Notes                       
+Terminal-Based Hierarchical Knowledge Management System
+with Git-Temporal Architecture
+===============================================================
 
 OVERVIEW
 ========
