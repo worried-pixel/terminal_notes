@@ -1,4 +1,3 @@
-===============================================================
 Terminal Notes                       
 Terminal-Based Hierarchical Knowledge Management System
 with Git-Temporal Architecture
