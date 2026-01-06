@@ -92,8 +92,8 @@ WHY THIS MATTERS
 
 GETTING STARTED
 ===============
-1. git clone [repo-link]
-2. cd terminal-notes
+1. git clone https://github.com/worried-pixel/terminal_notes.git
+2. cd terminal-notes/source
 3. python terminal_notes_ui.py
 4. Create or import notebooks
 5. Experience item-level versioning, infinite navigation,
