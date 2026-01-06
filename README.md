@@ -6,8 +6,7 @@ with Git-Temporal Architecture
 OVERVIEW
 ========
 Terminal Notes is a research-grade, full-stack note-taking and temporal
-database system built entirely with AI-assisted development by a single
-architect with zero prior Python knowledge. The system demonstrates
+database system. The system demonstrates
 multi-domain expertise: sysadmin, developer experience, Git internals,
 terminal UX, knowledge management, and temporal database concepts.
 
